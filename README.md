@@ -1,29 +1,55 @@
-<h1 align="center">Hi 👋, I'm Yvie Hu</h1>
-<h3 align="center">A passionate Data Analyst from California</h3>
-
-- 🔭 I’m currently working on **Leetcode SQL Practices**
-
-- 🌱 I’m currently learning **Tableau and Python For Data Analysis**
-
-- 👯 I’m looking to collaborate on **Data Analytics & BI Projects**
-
-- 🤝 I’m looking for help with **Advanced Dashboard Insights**
-
-- 💬 Ask me about **SQL queries, Tableau charts, or Figma UI Design**
-
-- 📫 How to reach me **yhhu316@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+# Hi 👋, I'm Yvie Hu 
 <p align="left">
-<a href="https://linkedin.com/in/yuhan hu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuhan hu" height="30" width="40" /></a>
-<a href="https://instagram.com/ihaveayvie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihaveayvie" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hy_yvieee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hy_yvieee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/luckyvieee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="luckyvieee" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Location-California-orange?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/University-UC%20Irvine-blue?style=flat-square&logo=universityofcalifornia&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📊 About Me & Core Workflows
+> A tech-driven Data Analyst candidate passionate about transforming messy data into structured, beautiful business intelligence solutions. Combining core engineering discipline with user-centered dashboard design.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hy-yvieee&show_icons=true&locale=en&layout=compact" alt="hy-yvieee" /></p>
+- **🔭 Daily Grinding**: Practicing rigorous data querying & querying optimization on **LeetCode (Database)**.
+- **🎨 Visual Strategy**: Building comprehensive business intelligence storyboards using **Tableau**.
+- **💬 Secret Weapon**: Ask me about combining **Figma UI Prototyping** with data storytelling to build executive-ready dashboards!
+- **⚡ Fun Fact**: Proud caregiver of two curious cats and an energetic Alaskan Malamute puppy named Aylaa! 🐾
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hy-yvieee&show_icons=true&locale=en" alt="hy-yvieee" /></p>
+---
+
+### 🛠️ Tech Stack & Digital Badges
+
+#### 💻 Programming & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++
+-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+#### 🗄️ Database & Querying
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+#### 🎨 Data Visualization & Product Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Analytics & Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hy-yvieee&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=E97627&icon_color=E97627&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hy-yvieee&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=E97627&text_color=ffffff" height="150" />
+</p>
+
+---
+
+### 📬 Connect With Me
+<p align="left">
+  <a href="mailto:yhhu316@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/hy-yvieee" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  </a>
+</p>
