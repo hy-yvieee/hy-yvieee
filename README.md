@@ -26,9 +26,19 @@
 ---
 
 ### 📈 My Coding Vitality (Sweet Theme)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hy-yvieee&show_icons=true&theme=calm&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1&text_color=7f8c8d" height="150" />
-</p>
+
+#### 🌸 2026 Grinding Progress Board
+> Tracking my daily learning velocity and consistency. Every green block represents progress, optimization, and hard engineering grit!
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 🍓 | 🍓 | 🍓 | 🍓 | 🍓 | 🌸 | 🌸 |
+| 🟩 | 🟩 | 🟩 | 🟩 | 🟩 | ✨ | ✨ |
+
+#### 🎀 Core Milestones & Coding Focus
+- [x] **Phase 1**: Initialize GitHub Portfolio Galleries & Personal Branding Setup ✨
+- [ ] **Phase 2**: Accumulate core query patterns via LeetCode SQL (Database Track) 🗄️
+- [ ] **Phase 3**: Ship interactive data visual storyboards to Tableau Public 📊
 
 #### 🌸 My Daily Learning Contribution Graph
 <p align="left">
