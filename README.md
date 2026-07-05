@@ -27,10 +27,13 @@
 
 ### 📈 My Coding Vitality (Sweet Theme)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hy-yvieee&show_icons=true&theme=rose&hide_border=true&title_color=fe5f55&icon_color=fe5f55&text_color=5c5346" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hy-yvieee&layout=compact&theme=rose&hide_border=true&title_color=fe5f55&text_color=5c5346" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hy-yvieee&show_icons=true&theme=calm&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1&text_color=7f8c8d" height="150" />
 </p>
 
+#### 🌸 My Daily Learning Contribution Graph
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hy-yvieee&theme=rose" width="100%" />
+</p>
 ---
 
 ### 📬 Connect With Me! 🌸
