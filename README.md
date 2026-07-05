@@ -24,14 +24,6 @@
 
 ---
 
-### 📈 GitHub Analytics & Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hy-yvieee&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=E97627&icon_color=E97627&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hy-yvieee&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=E97627&text_color=ffffff" height="150" />
-</p>
-
----
-
 ### 📬 Connect With Me
 <p align="left">
   <a href="mailto:yhhu316@gmail.com">
