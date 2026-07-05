@@ -40,10 +40,7 @@
 - [ ] **Phase 2**: Accumulate core query patterns via LeetCode SQL (Database Track) 🗄️
 - [ ] **Phase 3**: Ship interactive data visual storyboards to Tableau Public 📊
 
-#### 🌸 My Daily Learning Contribution Graph
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hy-yvieee&theme=rose" width="100%" />
-</p>
+---
 
 ### 📬 Connect With Me! 🌸
 <p align="left">
