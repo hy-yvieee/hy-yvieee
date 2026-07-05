@@ -10,29 +10,17 @@
 - **🔭 Daily Grinding**: Practicing rigorous data querying & querying optimization on **LeetCode (Database)**.
 - **🎨 Visual Strategy**: Building comprehensive business intelligence storyboards using **Tableau**.
 - **💬 Secret Weapon**: Ask me about combining **Figma UI Prototyping** with data storytelling to build executive-ready dashboards!
-- **⚡ Fun Fact**: Proud caregiver of two curious cats and an energetic Alaskan Malamute puppy named Aylaa! 🐾
+- **⚡ Fun Fact**: Proud caregiver of two curious cats September and Eighteen and an energetic Alaskan Malamute puppy named Aylaa! 🐾
 
 ---
 
 ### 🛠️ Tech Stack & Digital Badges
 
-#### 💻 Programming & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-#### 🗄️ Database & Querying
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### 🎨 Data Visualization & Product Design
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+| Category | Digital Badges |
+| :--- | :--- |
+| **💻 Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
+| **🗄️ Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| **🎨 Visualization & Design** | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> |
 
 ---
 
