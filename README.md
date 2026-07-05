@@ -44,7 +44,6 @@
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hy-yvieee&theme=rose" width="100%" />
 </p>
----
 
 ### 📬 Connect With Me! 🌸
 <p align="left">
